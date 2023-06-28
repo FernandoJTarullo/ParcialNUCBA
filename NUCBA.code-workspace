@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "NUCBA",
+			"path": ".."
+		},
+		{
+			"name": "Messi",
+			"path": "../Messi"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "NUCBA"
+	}
+}
