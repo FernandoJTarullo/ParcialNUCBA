@@ -141,3 +141,9 @@ input[type="submit"]:hover {
     color: #000;
     margin-right: 15px;
 }
+
+@media (max-width: 420px) {
+    .formulario {
+        width: 300px;
+    }
+}
